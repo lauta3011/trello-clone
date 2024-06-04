@@ -1,7 +1,7 @@
 {
   "name": "my-trello",
   "version": "0.1.0",
-  "homepage": "https://github.com/lauta3011/trello-clone.git"
+  "homepage": "https://github.com/lauta3011/trello-clone.git",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.5.2",
